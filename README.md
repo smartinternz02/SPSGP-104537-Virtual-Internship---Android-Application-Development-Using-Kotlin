@@ -7,6 +7,9 @@ Description
 ------------------
 This app helps you to make a proper list of grocery items with quantity and price so that, when you go for shopping next time you don't forget anything to buy and have a track of your expenditure for budget maintenance.
 
+Demo link: https://youtu.be/r8JMeqN1Ae4
+
+
 App Screenshots
 ------------
 <img src="https://user-images.githubusercontent.com/104249418/192083307-b802d658-317f-4b28-9d39-e8dae5a8c040.png" style="border:0px;width:250px;">  <img src="https://user-images.githubusercontent.com/104249418/192083309-cc96933f-e1b1-4214-a01c-8240a4568411.png" style="border:0px;width:250px;"></br>
